@@ -1,7 +1,7 @@
 /*
-Copyright 2014, modulex-path@1.0.2
+Copyright 2014, modulex-path@1.0.3
 MIT Licensed
-build time: Thu, 16 Oct 2014 03:29:40 GMT
+build time: Thu, 16 Oct 2014 03:54:36 GMT
 */
 /*
 combined modules:
@@ -68,7 +68,7 @@ function normalizeArray(parts, allowAboveRoot) {
  * @singleton
  */
 var Path = {
-    version: '1.0.2',
+    version: '1.0.3',
 
     _debug: '@DEBUG@',
 
