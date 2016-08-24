@@ -1,6 +1,6 @@
 {
   "name": "modulex-path",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "yiminghe <yiminghe@gmail.com>",
   "engines": {
     "node": ">=0.10"
@@ -10,6 +10,7 @@
     "type": "git",
     "url": "http://github.com/modulex/path.git"
   },
+  "main": "lib/path",
   "devDependencies": {
     "body-parser": "^1.6.5",
     "chai": "^1.9.1",
